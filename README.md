@@ -4,6 +4,10 @@
 Разработать полную ERD домена в https://www.dbdesigner.net/.
 Разработать диаграмму компонент в UML включая слои пользовательского интерфейса и бизнес-логики.
 
+*Экранная форма Single Page Web Application*
+
+![Снимок экрана от 2024-09-13 19-06-23](https://github.com/user-attachments/assets/34127abb-f887-4201-acac-2fc6d96f8613)
+
 *ERD домена*
 
 ![Снимок экрана от 2024-09-13 15-58-15](https://github.com/user-attachments/assets/72068ece-55d9-4b10-85d0-041f65218603)
